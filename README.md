@@ -31,3 +31,4 @@ This project is divided into 3 parts (contains a Jupyter notebooks for each part
 - keras
 - warnings
 - tqdm
+- matplotlib
